@@ -1,5 +1,7 @@
 # This simple app was made with a tutorial I followed on Youtube, just to learn Vue.
 
+# Used axios (for the API call)
+
 ## Project setup
 ```
 npm install
